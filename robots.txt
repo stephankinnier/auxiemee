@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zephooxue.thrillcode.xyz/sitemap.xml
